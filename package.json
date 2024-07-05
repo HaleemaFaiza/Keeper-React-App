@@ -25,7 +25,7 @@
   "bugs": {
     "url": "https://github.com/HaleemaFaiza/Keeper-React-App/issues"
   },
-  "homepage": "https://github.com/HaleemaFaiza/Keeper-React-App#readme",
+  "homepage": "http://haleemafaiza.github.io/Keeper-React-App"
   "dependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
